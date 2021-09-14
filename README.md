@@ -6,6 +6,8 @@
      
 #Tech Stack
     
+    HTML,
+    CSS,
     JavaScript,
     React.js,
     Stripe,
