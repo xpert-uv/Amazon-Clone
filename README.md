@@ -15,5 +15,7 @@
     firebase 
      
 #check it out:
-      It is deployed on firebase:
-    [Live Version]("https://e-clone-80e95.web.app/")
+
+      It is deployed on firebase:  [Live Version]("https://e-clone-80e95.web.app/")
+      
+     
